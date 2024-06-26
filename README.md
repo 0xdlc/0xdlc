@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mo
 - 👀 I’m interested in Security(offensive) and automation!
-- 🌱 I’m currently learning everythinh
+- 🌱 I’m currently learning everything and doing bugbounty hunting on the side
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me email pls
